@@ -1,6 +1,6 @@
 ### Before you move on, be sure that you understand the mechinisms of RNA sequencing
 ### I would recommend that you either use Linux or MacOS when performing such analysis since many tools are only compatible with Unix-like systems.
-### Be sure that you systems and all packages are under the **most latest stable version**.
+Be sure that you systems and all packages are under the _**most latest stable version**_.
 
 ### several techniques that you should get prepared
 1. Python
