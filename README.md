@@ -1,9 +1,9 @@
-# RNA_Sequencing
-This is the workflow for RNA sequencing analysis together with several problems shooting
-
 # Notations of code files for this project
 
 ## This project mainly include three aspects: SIFT feature extractor, DELF extractor, CNN feature extractor.
+1. SIFT part
+
+2. DELF part
 
 3. CNN part includes files:
   - functions.py -------used to pre-process image files and batches
